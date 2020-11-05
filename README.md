@@ -10,6 +10,8 @@
 
 <p align="center">
 I’m currently studying on BUPT.  
+</p>  
+<p align="center">
 I’m currently learning Distributed System.
 </p> 
 <p align="center">
